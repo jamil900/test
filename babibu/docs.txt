@@ -1,8 +1,10 @@
 Hidup Sehat
   - Tidur
   - Makan
-  - Metabolisme
+  - Minum
   - Olahraga
   - Uang
   - Mandi
+  - Jadwal Teratur
   - Shalat
+
